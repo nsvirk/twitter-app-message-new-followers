@@ -1,0 +1,29 @@
+{
+  "name": "twitter-app-message-new-followers",
+  "version": "1.0.0",
+  "description": "A Twitter app that sends a custom message to new followers automatically",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsvirk/twitter-app-message-new-followers.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "app",
+    "followers",
+    "direct",
+    "message",
+    "auto"
+  ],
+  "author": "@nsvirk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsvirk/twitter-app-message-new-followers/issues"
+  },
+  "homepage": "https://github.com/nsvirk/twitter-app-message-new-followers#readme"
+}
